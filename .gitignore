@@ -23,6 +23,8 @@ wheels/
 pip-wheel-metadata/
 share/python-wheels/
 pre-load/
+pre-processed/
+temp/
 *.egg-info/
 .installed.cfg
 *.egg
